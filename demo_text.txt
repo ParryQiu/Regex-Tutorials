@@ -1,0 +1,21 @@
+https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&rsv_idx=1&tn=baidu&wd=javascript&oq=javascript&rsv_pq=beddd7d6000058b3&rsv_t=64e3wGFQl9wFV%2FLR0IMTLOw%2FabfHjwPYO%2BSR2RuSu3tNukSmkZS7sK%2BcgMI&rsv_enter=0&prefixsug=javascript&rsp=0
+
+<div\s+class="(result|result-op)\s+c-container\s+.*?<a.*?>(.*?)</a>
+
+<div class="result c-container " id="2" srcid="1599" tpl="se_com_default"  data-click="{'rsv_bdr':'0' }"  ><h3 class="t"><a 
+	        data-click="{
+			'F':'778317EA',
+			'F1':'9D73F1E4',
+			'F2':'4CA6DE6B',
+			'F3':'54E5343F',
+			'T':'1449575367',
+						'y':'BAAD9F7B'
+			 
+									}"
+        href = "http://www.baidu.com/link?url=xtlRWmtVY3VjlhgD9ee2Uo-Hgax7VZeofYP0pjHMZdP5PVyjIk-3t-epakH8bJl9cqdJWuQDQ-lHprm4jxs_Mq"
+
+		            target="_blank"
+        		
+		><em>JavaScript</em> 教程</a></h3><div class="c-abstract"><em>JavaScript</em> 是属于网络的脚本语言! <em>JavaScript</em> 被数百万计的网页用来改进设计、验证表单、检测浏览器、创建cookies,以及更多的应用。 <em>JavaScript</em> 是因特网上最流行的...</div><div class="f13"><span class="c-showurl">www.w3school.com.cn/js...&nbsp;</span><div class="c-tools" id="tools_8673375493187468512_2" data-tools='{"title":"JavaScript 教程","url":"http://www.baidu.com/link?url=xtlRWmtVY3VjlhgD9ee2Uo-Hgax7VZeofYP0pjHMZdP5PVyjIk-3t-epakH8bJl9cqdJWuQDQ-lHprm4jxs_Mq"}'><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></div><span class="c-icons-outer"><span class="c-icons-inner"></span></span>&nbsp;-&nbsp;<a data-click="{'rsv_snapshot':'1'}" href="http://cache.baiducontent.com/c?m=9d78d513d99b12eb0bacc53e565491725e14de6c6691965768d5e0558e211e04506694fe2663415e8e98227001d81801b5e73605665f3defdad5d3168becd83f2fff747532&p=8c769a4786cc41ac5cbf8e2b4a4a89&newp=c9769a47898333fe11bd9b7e0e128f231610db2151d6d44a3fa6c201&user=baidu&fm=sc&query=javascript&qid=a37ff08a000070b2&p1=2" 
+                        target="_blank" 
+                    class="m">百度快照</a><span>&nbsp;-&nbsp;<a href="http://www.baidu.com/tools?url=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DxtlRWmtVY3VjlhgD9ee2Uo-Hgax7VZeofYP0pjHMZdP5PVyjIk-3t-epakH8bJl9cqdJWuQDQ-lHprm4jxs_Mq&jump=http%3A%2F%2Fkoubei.baidu.com%2Fwomc%2Fp%2Fsentry%3Ftitle%3D%02JavaScript%03%20%01%E6%95%99%E7%A8%8B%01%26q%3Djavascript&key=surl" target="_blank" class="m" data-click="{'rsv_comments':'1'}">93%好评</a></span></div><div class="c-gap-top c-recommend" style="display:none;" data-extquery="javascript视频教程下载&nbsp;js&nbsp;"><i class="c-icon c-icon-bear-circle c-gap-right-small"></i><span class="c-gray">为您推荐：</span><a href="/s?rsv_idx=1&wd=javascript%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B%E4%B8%8B%E8%BD%BD&usm=2&ie=utf-8&rsv_crq=7&bs=javascript" target="_blank" class="res-gap-right16">javascript视频教程下载</a><a href="/s?rsv_idx=1&wd=js&usm=2&ie=utf-8&rsv_crq=7&bs=javascript" target="_blank">js</a></div></div> 
